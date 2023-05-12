@@ -8,6 +8,7 @@ btn.addEventListener("click", function (e) {
   e.preventDefault();
   if (input.value.match(mailformat)) {
     alert("valid Email")
+    location.reload();
     // return true;
   } else {
       span.classList.add("show_span");
