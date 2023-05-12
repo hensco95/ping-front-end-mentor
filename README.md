@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Front end mentor solution](https://www.frontendmentor.io/solutions/responsive-page-using-css-html-and-javascript-7Zm2UnReHi)
+- Live Site URL: [Ping Project](https://ping-frontend-mentor.netlify.app/)
 
 ## My process
 
@@ -51,12 +51,9 @@ Users should be able to:
 I learned how to do a bit of email validation for a form.
 
 
-
-
 ### Useful resources
 
 - [W3 resource](https://www.w3resource.com/javascript/form/email-validation.php) - This helped me understand regex expression pattern for the email validation.
-
 
 
 ## Author
